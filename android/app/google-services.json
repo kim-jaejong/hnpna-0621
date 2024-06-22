@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "348801498106",
+    "project_id": "hnpna-3e37e",
+    "storage_bucket": "hnpna-3e37e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:348801498106:android:7c678d94cbd82456788243",
+        "android_client_info": {
+          "package_name": "com.example.hnpna_0621"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy9fDDBes1bKZ8XpK3bM6AwAqd2TmMmvA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
